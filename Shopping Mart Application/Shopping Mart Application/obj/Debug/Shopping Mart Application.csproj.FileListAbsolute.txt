@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\bin\Debug\Shopping Mart Application.exe.config
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\bin\Debug\Shopping Mart Application.exe
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\bin\Debug\Shopping Mart Application.pdb
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping Mart Application.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping_Mart_Application.AddItemForm.resources
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping_Mart_Application.EditItemForm.resources
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping_Mart_Application.Form1.resources
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping_Mart_Application.Login.resources
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping_Mart_Application.Properties.Resources.resources
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping_Mart_Application.SignUp.resources
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping_Mart_Application.ViewDataForm.resources
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping Mart Application.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping Mart Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping Mart Application.exe
+C:\Users\HP\source\repos\Shopping Mart Application\Shopping Mart Application\obj\Debug\Shopping Mart Application.pdb
